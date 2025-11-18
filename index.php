@@ -80,7 +80,7 @@
                 <div class="col-lg-6">
                     <h1 class="hero-title">Sistem Pendaftaran TOEFL Lab Bahasa</h1>
                     <p class="hero-subtitle">
-                       Sistem autentikasi aman dengan 3 level role: Mahasiswa, Admin Lab, dan Kepala Lab untuk pengelolaan terpadu
+                       Sistem autentikasi aman dengan 3 level role: Mahasiswa, Admin Lab, dan Kepala Lab untuk pengelolaan terpadu dan bagus
                     </p>
                     <div>
                         <a href="views/auth/login.php" class="btn btn-light btn-hero">
@@ -130,6 +130,13 @@
                         <p class="text-muted">Download sertifikat TOEFL Anda dalam format PDF</p>
                     </div>
                 </div>
+                <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="feature-icon">🔐</div>
+                    <h4>Autentikasi Aman</h4>
+                    <p class="text-muted">Login terenkripsi dengan role-based access control</p>
+                </div>
+            </div>
             </div>
         </div>
     </section>
