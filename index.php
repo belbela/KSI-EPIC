@@ -80,7 +80,7 @@
                 <div class="col-lg-6">
                     <h1 class="hero-title">Sistem Pendaftaran TOEFL Lab Bahasa</h1>
                     <p class="hero-subtitle">
-                        Database terintegrasi dengan 5 tabel utama untuk efisiensi pengelolaan data pendaftaran dan hasil tes kelulusan
+                        Database terintegrasi dengan 5 tabel utama untuk efisiensi pengelolaan data pendaftaran dan hasil tes kelulusan. Sistem autentikasi aman dengan 3 level role: Mahasiswa, Admin Lab, dan Kepala Lab untuk pengelolaan terpadu
                     </p>
                     <div>
                         <a href="views/auth/login.php" class="btn btn-light btn-hero">
