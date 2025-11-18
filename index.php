@@ -81,7 +81,8 @@
                     <h1 class="hero-title">Sistem Pendaftaran TOEFL Lab Bahasa</h1>
                     <p class="hero-subtitle">
                         Admin dapat melakukan verifikasi pembayaran dan mengelola jadwal tes secara real-time dengan dashboard interaktif
-                    </p>
+                    </p>  <!-- DIEDIT BERLIAN (Skema 1) jika kamu mengubah baris ini -->
+
                     <div>
                         <a href="views/auth/login.php" class="btn btn-light btn-hero">
                             Login
@@ -91,6 +92,7 @@
                         </a>
                     </div>
                 </div>
+
                 <div class="col-lg-6">
                     <!-- Optional: Tambahkan ilustrasi atau gambar -->
                 </div>
@@ -133,6 +135,35 @@
             </div>
         </div>
     </section>
+
+    <!-- ============================================= -->
+    <!-- DITAMBAHKAN BERLIAN (SKEMA 2)                 -->
+    <!-- Section baru - Tentang Sistem                 -->
+    <section class="py-5" id="about">
+        <div class="container">
+            <div class="text-center mb-4">
+                <h2>Tentang Sistem</h2>
+                <p class="text-muted">
+                    Sistem TOEFL ini dirancang untuk memudahkan proses pendaftaran, verifikasi, dan penerbitan sertifikat TOEFL secara digital.
+                </p>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="p-4 bg-white shadow rounded">
+                        <p>
+                            Platform ini dikembangkan sebagai solusi modern untuk Lab Bahasa, 
+                            agar proses administrasi TOEFL menjadi lebih cepat, efisien, dan terintegrasi.
+                            Dengan dashboard interaktif, admin dapat dengan mudah mengelola jadwal tes,
+                            peserta, serta verifikasi pembayaran secara real-time.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============================================= -->
+    <!-- END SKEMA 2 - BERLIAN                         -->
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-4">
