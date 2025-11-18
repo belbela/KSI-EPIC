@@ -130,6 +130,13 @@
                         <p class="text-muted">Download sertifikat TOEFL Anda dalam format PDF</p>
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <div class="feature-card">
+                        <div class="feature-icon">🗄</div>
+                        <h4>Database Terintegrasi</h4>
+                        <p class="text-muted">5 tabel utama saling terkoneksi untuk efisiensi data</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
