@@ -130,6 +130,13 @@
                         <p class="text-muted">Download sertifikat TOEFL Anda dalam format PDF</p>
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h4>Dashboard Interaktif</h4>
+                        <p class="text-muted">Monitoring riwayat tes dan hasil dengan visualisasi data</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
