@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
+
         .hero-section {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
@@ -17,16 +19,19 @@
             display: flex;
             align-items: center;
         }
+
         .hero-title {
             font-size: 3rem;
             font-weight: 700;
             margin-bottom: 20px;
         }
+
         .hero-subtitle {
             font-size: 1.25rem;
             margin-bottom: 40px;
             opacity: 0.9;
         }
+
         .btn-hero {
             padding: 15px 40px;
             font-size: 1.1rem;
@@ -34,26 +39,31 @@
             margin: 10px;
             transition: transform 0.3s;
         }
+
         .btn-hero:hover {
             transform: translateY(-3px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
         }
+
         .features {
             padding: 80px 0;
             background: #f8f9fa;
         }
+
         .feature-card {
             text-align: center;
             padding: 40px 20px;
             border-radius: 15px;
             background: white;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s;
             margin-bottom: 30px;
         }
+
         .feature-card:hover {
             transform: translateY(-10px);
         }
+
         .feature-icon {
             font-size: 3rem;
             margin-bottom: 20px;
@@ -61,15 +71,16 @@
         }
     </style>
 </head>
+
 <body>
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h1 class="hero-title">Sistem Pendaftaran TOEFL</h1>
+                    <h1 class="hero-title">Sistem Pendaftaran TOEFL Lab Bahasa</h1>
                     <p class="hero-subtitle">
-                        Daftarkan diri Anda untuk mengikuti tes TOEFL di Lab Bahasa dengan mudah dan cepat
+                        Database terintegrasi dengan 5 tabel utama untuk efisiensi pengelolaan data pendaftaran dan hasil tes
                     </p>
                     <div>
                         <a href="views/auth/login.php" class="btn btn-light btn-hero">
@@ -132,4 +143,5 @@
 
     <script src="assets/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
