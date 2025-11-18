@@ -80,7 +80,7 @@
                 <div class="col-lg-6">
                     <h1 class="hero-title">Sistem Pendaftaran TOEFL Lab Bahasa</h1>
                     <p class="hero-subtitle">
-                        Database terintegrasi dengan 5 tabel utama untuk efisiensi pengelolaan data pendaftaran dan hasil tes
+                        Admin dapat melakukan verifikasi pembayaran dan mengelola jadwal tes secara real-time dengan dashboard interaktif
                     </p>
                     <div>
                         <a href="views/auth/login.php" class="btn btn-light btn-hero">
